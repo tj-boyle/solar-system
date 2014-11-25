@@ -1,0 +1,789 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"first",
+				"first-child"
+			],
+			[
+				"ch",
+				"check_path"
+			],
+			[
+				"user",
+				"user_info"
+			],
+			[
+				"getuser",
+				"get_userdata"
+			],
+			[
+				"current",
+				"current-menu-item"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"transiti",
+				"transition-property"
+			],
+			[
+				"up",
+				"uppercase"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"backgrond",
+				"background-color"
+			],
+			[
+				"e-bo",
+				"e-board-photo"
+			],
+			[
+				"blog",
+				"blog-image"
+			],
+			[
+				"block",
+				"blockquote"
+			],
+			[
+				"organize",
+				"organized_events"
+			],
+			[
+				"border",
+				"borderOrange"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"cycl",
+				"cycloneslider-next"
+			],
+			[
+				"soli",
+				"soliloquy-next"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"main",
+				"mainOrange"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"fon",
+				"font-style"
+			],
+			[
+				"beers",
+				"beersResource"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"tex",
+				"textarea"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"inline",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "untitled.sublime-project",
+			"settings":
+			{
+				"buffer_size": 73,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 410,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config.rb",
+			"settings":
+			{
+				"buffer_size": 861,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 243.0,
+		"selected_items":
+		[
+			[
+				"enable",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"enab",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"pci",
+				"Package Control: Disable Package"
+			],
+			[
+				"disa",
+				"LiveReload: Enable/disable plug-ins"
+			],
+			[
+				"intsll",
+				"Package Control: Install Package"
+			],
+			[
+				"instlal",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git quic",
+				"Git: Quick Commit"
+			],
+			[
+				"git add",
+				"Git: Add..."
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"html",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"wrap",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"warp",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"wrao",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"wrap ",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"package in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/opt/lampp/htdocs/test-project",
+		"/opt/lampp/htdocs/test-project/sass"
+	],
+	"file_history":
+	[
+		"/opt/lampp/htdocs/test-project/assets/sass/ie.scss",
+		"/opt/lampp/htdocs/test-project/assets/stylesheets/ie.css",
+		"/opt/lampp/htdocs/test-project/config.rb",
+		"/opt/lampp/htdocs/test-project/sass/ie.scss",
+		"/opt/lampp/htdocs/flashmob/index.html",
+		"/opt/lampp/htdocs/solar_system/solar_system.sublime-project",
+		"/opt/lampp/htdocs/solar_system/assets/sass/ie.scss",
+		"/opt/lampp/htdocs/solar_system/assets/stylesheets/ie.css",
+		"/opt/lampp/htdocs/solar_system/assets/sass/screen.scss",
+		"/run/user/1000/gvfs/sftp:host=rc.rit.edu,user=tjb2597/virtualhosts/www-staging.rc.rit.edu/framework/live-video.html",
+		"/run/user/1000/gvfs/sftp:host=rc.rit.edu,user=tjb2597/virtualhosts/www-staging.rc.rit.edu/framework/footer.html",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/template-home.php",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/template-local-history.php",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/template-brothers.php",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/sass/partials/layout.scss",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/template-alumni.php",
+		"/opt/lampp/htdocs/wordpress/wp-includes/template-alumni.php",
+		"/opt/lampp/htdocs/wordpress/wp-includes/post-template.php",
+		"/run/user/1000/gvfs/sftp:host=s88276131.onlinehome.us,user=u35390112/wp-includes/post-template.php",
+		"/run/user/1000/gvfs/sftp:host=s88276131.onlinehome.us,user=u35390112/wp-content/themes/KDR-redesign/template-home.php",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/functions.php",
+		"/run/user/1000/gvfs/sftp:host=s88276131.onlinehome.us,user=u35390112/wp-content/themes/KDR-redesign/template-brothers.php",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/template-rush.php",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/includes/eboard-variables.php",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/header.php",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/images/timeline/beyond_middlebury.svg",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/images/timeline/cd-pattern-last.svg",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/images/timeline/cd-pattern-small.svg",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/template-national-history.php",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/index.php",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/sass/modules/_vars.scss",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/images/timeline/cd-icon-3-small.svg",
+		"/home/paleolithic/Desktop/light-bulb.svg",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/images/timeline/icon_3973.svg",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/images/timeline/depression.svg",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/images/timeline/cd-icon-4-small.svg",
+		"/home/paleolithic/Desktop/iconmonstr-light-bulb-6-icon.svg",
+		"/run/user/1000/gvfs/sftp:host=s88276131.onlinehome.us,user=u35390112/backup/about-old/national.php",
+		"/run/user/1000/gvfs/sftp:host=s88276131.onlinehome.us,user=u35390112/backup/about-old/local.php",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/template-tree.php",
+		"/tmp/fz3temp-1/national.php",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/.sass-cache/cbef6c4f6ac6d9ff2908e278ce4117ecd1cd682a/filling-effect.scssc",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/stylesheets/vendor/filling-effect.css",
+		"/media/paleolithic/9EA4-54D4/Documents/Programming/Web/Scripts/icons-filling-effect/scss/style.scss",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/style.css",
+		"/media/paleolithic/9EA4-54D4/Documents/Programming/Web/Scripts/icons-filling-effect/index.html",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/images/timeline/cd-icon-2-small.svg",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/images/timeline/cd-icon-2-large.svg",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/images/timeline/cd-icon-1-small.svg",
+		"/media/paleolithic/9EA4-54D4/Documents/Programming/Web/Scripts/icons-filling-effect/img/cd-icon-1-small.svg",
+		"/media/paleolithic/9EA4-54D4/Documents/Programming/Web/Scripts/icons-filling-effect/img/cd-icon-1-large.svg",
+		"/media/paleolithic/9EA4-54D4/Documents/Programming/Web/Scripts/icons-filling-effect/css/style.css",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/template-calendar.php",
+		"/media/paleolithic/9EA4-54D4/Documents/Programming/Web/Scripts/icons-filling-effect/js/main.js",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/stylesheets/partials/layout.css",
+		"/opt/lampp/htdocs/flashmob/assets/sass/layout.scss",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/govpress-master/brother-tree-template.php",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/govpress-master/inc/extras.php",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/govpress-master/brothertree.php",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/template-about.php",
+		"/tmp/fz3temp-1/header.php",
+		"/tmp/fz3temp-1/brother-tree-template.php",
+		"/tmp/fz3temp-1/brothertree.php",
+		"/tmp/fz3temp-1/family_lines.php",
+		"/home/paleolithic/Desktop/icons-filling-effect/js/main.js",
+		"/home/paleolithic/Desktop/icons-filling-effect/partials/_variables.scss",
+		"/home/paleolithic/Desktop/icons-filling-effect/partials/_mixins.scss",
+		"/home/paleolithic/Desktop/icons-filling-effect/partials/_layout.scss",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/sass/vendor/calendar.scss",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/sass/vendor/demo.scss",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/sass/vendor/custom_2.scss",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/category.php",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/author.php",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/entry.php",
+		"/home/paleolithic/Desktop/custom_2.css",
+		"/home/paleolithic/.cache/.fr-Xv3Hwu/Calendario/css/custom_2.css",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/sass/style.scss",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/sass/vendor/cycloneslider.scss",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/sass/vendor/superslides.scss",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/template-history.php",
+		"/opt/lampp/htdocs/rc-imagine/assets/sass/layout.scss",
+		"/opt/lampp/htdocs/rc-imagine/index.html",
+		"/opt/lampp/htdocs/rc-imagine/assets/sass/superslides.scss",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/scripts/superslides/superslides.js",
+		"/opt/lampp/htdocs/rc-imagine/assets/javascripts/jquery.easing.1.3.js",
+		"/opt/lampp/htdocs/rc-imagine/assets/javascripts/jquery.animate-enhanced.min.js",
+		"/opt/lampp/htdocs/rc-imagine/assets/javascripts/jquery.superslides.js",
+		"/opt/lampp/htdocs/rc-imagine/assets/javascripts/all.js",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/sass/calendario/calendar.scss",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/sass/calendario/custom_2.scss",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/sass/calendario/demo.scss",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/sass/layout.scss",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/lib/phpAPIClient/src/Google/Service.php",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/calendarConfig.php",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/calendarCode.php",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/footer.php",
+		"/media/paleolithic/9EA4-54D4/Documents/Programming/Web/Scripts/Calendario/index2.html",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/stylesheets/calendario/calendar.css",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/stylesheets/calendario/demo.css",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/scripts/calendario/modernizr.custom.63321.js",
+		"/media/paleolithic/9EA4-54D4/Documents/Programming/Web/Scripts/Calendario/js/data.js",
+		"/media/paleolithic/9EA4-54D4/Documents/Programming/Web/Scripts/Calendario/index.html",
+		"/opt/lampp/htdocs/server/project1/assets/includes/head.php",
+		"/opt/lampp/htdocs/server/project1/index.php",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/sass/_vars.scss",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/sass/_dependencies.scss",
+		"/opt/lampp/htdocs/bonnfit/config.rb",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/tag.php",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/archive.php",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/attachment.php",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/page.php",
+		"/media/paleolithic/9EA4-54D4/Documents/Programming/Web/Designer_Bundle_3.0/eldorado_bundle_mini_3132/eldorado_stroke/SVG/salad.svg",
+		"/media/paleolithic/9EA4-54D4/Documents/Programming/Web/Designer_Bundle_3.0/eldorado_bundle_mini_3132/eldorado_stroke/SVG/drill_perforator.svg",
+		"/media/paleolithic/9EA4-54D4/Documents/Programming/Web/Designer_Bundle_3.0/eldorado_bundle_mini_3132/eldorado_stroke/SVG/add_friend.svg",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/Eldorado/inline-radio.svg.php",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/Eldorado/inline-bell.svg",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/Eldorado/inline-bell.svg.png",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/Eldorado/sport_1.svg",
+		"/opt/lampp/htdocs/flashmob/,",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/nav-below-single.php",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/nav-below.php",
+		"/opt/lampp/htdocs/wordpress/wp-includes/comment-template.php",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/single.php",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/sidebar.php",
+		"/opt/lampp/htdocs/server/project1/LIB_project1.php",
+		"/opt/lampp/htdocs/server/project1/assets/includes/connect.php",
+		"/opt/lampp/htdocs/wordpress/wp-content/themes/blankslate/comments.php",
+		"/opt/lampp/htdocs/server/project1/assets/sass/layout.scss"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<open folders>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"assets/",
+			"mobile",
+			"...",
+			"Continue reading",
+			"...",
+			">\n",
+			"...",
+			"?>\n",
+			"the_Excerpt",
+			"?>...\n",
+			"rush-photo",
+			"test/",
+			"partial_path",
+			"test/",
+			"/\" ",
+			"test/\"",
+			"test/",
+			"url",
+			"<span>#<?php echo $praetor_info->pin; ?></span>",
+			"praetor",
+			"';",
+			"echo '",
+			"praetor",
+			"$praetor",
+			"user_info",
+			"meta_",
+			"<div class=\"one-fifth column active-fifths\">",
+			"National",
+			"transition",
+			":",
+			": ",
+			"Motto: </",
+			": ",
+			".header",
+			".desc",
+			">\n",
+			"transition",
+			"				&:",
+			"@include border-radius",
+			"ruler",
+			"\"/>\n",
+			"\"#000000\"",
+			"</p>",
+			"&nbsp;",
+			"&nbsp",
+			"<br>",
+			"&nbsp;",
+			" <br>",
+			"\\'",
+			"</p>",
+			"&nbsp;",
+			"</p>",
+			"&nbsp;",
+			"</p>",
+			"&nbsp;",
+			"</p>",
+			">\n",
+			".cd-container",
+			"#3E243C",
+			"5",
+			"EEEEEE",
+			"#3E243C",
+			"../",
+			"image/",
+			"mage",
+			"img",
+			"<ul>\n				<li><a href=\"\">Sheet Music</a></li>\n				<li>Embedded Audio</li>\n			</ul>",
+			"<ul>\n				<li>Sheet Music</li>\n				<li>Embedded Audio</li>\n			</ul>",
+			"p{",
+			"header",
+			"$wpdb",
+			"mainBlue",
+			"}\n",
+			"</p>",
+			"e-board-photo",
+			"175",
+			"255",
+			"e-board-f",
+			"e-board-photo",
+			"e-board-",
+			"e-board-fifths",
+			"<h4>",
+			"delta",
+			"}\n",
+			"$mainOrange",
+			"Portrait",
+			"49",
+			"e-board",
+			"<!-- <img",
+			"&.",
+			"#",
+			"<img src=\"<?php bloginfo('template_directory'); ?>/images/brothers/",
+			"images/",
+			"http://lorempixel.com/140/140/",
+			"/scripts/superslides",
+			"'http://unsplash.it/1366/911/?random",
+			"columns",
+			"32px !important",
+			"3",
+			"div",
+			"header",
+			"div",
+			"header",
+			"2",
+			"h1",
+			"21",
+			"http://placehold.it/350x150",
+			"?>\n",
+			"sixteen columns",
+			"'eight columns'",
+			"we",
+			"We",
+			"='eight columns'>",
+			"'eight columns'",
+			"eight",
+			"='eight",
+			"'eight",
+			"height",
+			"eight",
+			"eight columns",
+			"assets/images/slider-imgs",
+			"='assets/images/slider-imgs/3",
+			"'assets/images/slider-imgs/",
+			"assets/images/slider-imgs",
+			"3",
+			"assets/images/slider-imgs/3",
+			"assets/images/slider-imgs/",
+			"three"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"portrait",
+			"$mainOrange",
+			"<div id=\"archives\" class=\"four columns\">\n					<h3>Archives</h3>\n					<ul>\n						<?php wp_get_archives('type=monthly&limit=6'); ?>\n					</ul>\n				</div>",
+			"4px"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "untitled.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 73,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								73,
+								73
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 410,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								190,
+								190
+							],
+							[
+								263,
+								263
+							],
+							[
+								339,
+								339
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "config.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 861,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								129,
+								129
+							],
+							[
+								154,
+								154
+							],
+							[
+								174,
+								174
+							],
+							[
+								201,
+								201
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 118.0
+	},
+	"project": "untitled.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"func",
+				"blankslate/functions.php"
+			],
+			[
+				"nav",
+				"wp-includes/nav-menu.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 75.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 223.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
